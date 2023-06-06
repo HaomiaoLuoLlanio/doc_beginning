@@ -21,14 +21,15 @@ Contents
    usage
    api
 
+.. role:: raw-latex(raw)
+   :format: latex html
 
 .. raw:: html
-<head>
-<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script>
-</head>
 
+   <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+.. math::
    <details>
-     <summary>Element Name(MathJax:a^{name}) - Brief one line description</summary>
+     <summary>Element Name(a^{name}) - Brief one line description</summary>
      <p>Element name: expression<br>
      Details:<br>
      Examples:<br>
