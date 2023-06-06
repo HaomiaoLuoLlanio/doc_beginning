@@ -21,6 +21,7 @@ Contents
    usage
    api
 
+":math:`a^{\mathrm{sign}}`"
 .. raw:: html
 
    <details>
