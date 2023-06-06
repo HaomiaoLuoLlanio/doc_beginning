@@ -27,4 +27,4 @@ Contents
 <a href="#" class="toggle-link">Click to Open</a>
 
    <div class="hidden-box" style="display: none;">Hidden Box Content</div>
-.. raw:: html
+
