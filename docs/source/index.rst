@@ -25,9 +25,9 @@ Contents
 .. raw:: html
 
    <details>
-     <summary>Element Name(LaTeX:a^{name}) - Brief one line description</summary>
-     <p><Element name>: expression\n 
-     Details:\n
-     Examples:</p>
+     <summary>Element Name(a^{name}) - Brief one line description</summary>
+     <p><Element name>: expression<br>
+     Details:<br>
+     Examples:<br>
    </details>
 
