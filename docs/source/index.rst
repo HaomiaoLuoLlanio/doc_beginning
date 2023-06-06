@@ -25,7 +25,9 @@ Contents
 .. raw:: html
 
    <details>
-     <summary>Click me!</summary>
-     <p>Here is some hidden text!</p>
+     <summary>Element Name(LaTeX:a^{name}) - Brief one line description</summary>
+     <p><Element name>: expression\n 
+     Details:\n
+     Examples:</p>
    </details>
 
