@@ -25,9 +25,10 @@ Contents
 .. raw:: html
 
    <p>
-    Click the word <span class="clickable" onclick="toggleTextBox()">here</span> to reveal the text box.
+     Click the word <span class="clickable" onclick="toggleTextBox()">here</span> to reveal the text box.
    </p>
    <div id="textBox" style="display: none;">
-    This is the text box content.
+     This is the text box content.
    </div>
+.. raw:: html
 
