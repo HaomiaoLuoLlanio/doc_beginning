@@ -25,7 +25,7 @@ Contents
 .. raw:: html
 
    <details>
-     <summary>Element Name(a^{sign}) - Brief one line description</summary>
+     <summary>Element Name(<var>a<sup>2</sup></var>) - Brief one line description</summary>
      <p>Element name: expression<br>
      Details:<br>
      Examples:<br>
