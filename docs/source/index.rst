@@ -25,7 +25,7 @@ Contents
 .. raw:: html
 
    <details>
-     <summary>Element Name(":math:`a^{\mathrm{sign}}`") - Brief one line description</summary>
+     <summary>Element Name(":math::`a^{\mathrm{sign}}`") - Brief one line description</summary>
      <p>Element name: expression<br>
      Details:<br>
      Examples:<br>
