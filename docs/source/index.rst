@@ -31,3 +31,16 @@ Contents
      Examples:<br>
    </details>
 
+   <details>
+     <summary>Element Name(<var>a<sup>Name</sup></var>) - Brief one line description</summary>
+     <p>Element name: expression<br>
+     Details:<br>
+     Examples:<br>
+   </details>
+   
+    <details>
+     <summary>Element Name(<var>a<sup>Name</sup></var>) - Brief one line description</summary>
+     <p>Element name: expression<br>
+     Details:<br>
+     Examples:<br>
+   </details>
