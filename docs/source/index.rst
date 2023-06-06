@@ -23,10 +23,13 @@ Contents
 
 
 .. raw:: html
+<head>
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+</head>
 
    <details>
-     <summary>Element Name(a^{name}) - Brief one line description</summary>
-     <p><Element name>: expression<br>
+     <summary>Element Name(MathJax:a^{name}) - Brief one line description</summary>
+     <p>Element name: expression<br>
      Details:<br>
      Examples:<br>
    </details>
