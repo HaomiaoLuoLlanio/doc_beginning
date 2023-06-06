@@ -21,13 +21,8 @@ Contents
    usage
    api
 
-.. role:: raw-latex(raw)
-   :format: latex html
-
 .. raw:: html
 
-   <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-.. math::
    <details>
      <summary>Element Name(a^{name}) - Brief one line description</summary>
      <p>Element name: expression<br>
