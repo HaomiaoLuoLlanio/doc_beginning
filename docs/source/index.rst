@@ -60,7 +60,7 @@ Contents
       </table>
   </details>
 
-<details style="font-family:Calibri, sans-serif;">
+   <details style="font-family:Calibri, sans-serif;">
      <summary style="background-color:#80BFFF;width:400px;color:white;">Element Name(<var>a<sup>Name</sup></var>) - Brief one line description</summary>
       <table style="background-color:#E6F2FF; border-collapse:collapse;width: 400px">
       <tr >
