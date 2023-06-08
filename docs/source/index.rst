@@ -16,10 +16,9 @@ how to :ref:`installation` the project.
 
    This project is under active development.
    
-I recommend you try |Python|_.
+Here is a symbolic footnote reference: [*]_.
 
-.. |Python| replace:: Python, *the* best language around
-.. _Python: https://www.python.org/
+.. [*] This is the footnote.
 
 .. toctree::
    :caption: Table of Contents
