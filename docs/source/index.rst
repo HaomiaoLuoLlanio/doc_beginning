@@ -27,7 +27,7 @@ Contents
    This paragraph might be rendered in a custom way.
    
    <container classes="custom">
-    <paragraph>
+      <paragraph>
         This paragraph might be rendered in a custom way.
 
 
