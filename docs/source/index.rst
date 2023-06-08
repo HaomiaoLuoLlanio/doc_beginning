@@ -18,11 +18,15 @@ how to :ref:`installation` the project.
    
 Here is a symbolic footnote reference: example_.
 
-.. example This is the footnote.
+.. example_ This is the footnote.
 
 .. toctree::
    :caption: Table of Contents
    :name: mastertoc
+   
+.. note:: This is a paragraph
+
+   - Here is a bullet list.
 Contents
 --------
 
