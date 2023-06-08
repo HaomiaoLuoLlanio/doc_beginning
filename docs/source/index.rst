@@ -16,9 +16,9 @@ how to :ref:`installation` the project.
 
    This project is under active development.
    
-Here is a symbolic footnote reference: [*]_.
+Here is a symbolic footnote reference: example_.
 
-.. [*] This is the footnote.
+.. example This is the footnote.
 
 .. toctree::
    :caption: Table of Contents
