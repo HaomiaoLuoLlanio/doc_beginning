@@ -37,14 +37,7 @@ Contents
      Details:<br>
      Examples:<br>
    </details>
-   <style>
-      p {
-        color: white;
-        background-color: blue;
-        padding: 5px;
-        border: 1px solid black;
-      }
-    </style>
+
     <details>
      <summary>Element Name(<var>a<sup>Name</sup></var>) - Brief one line description</summary>
      <p>Element name: expression<br>
