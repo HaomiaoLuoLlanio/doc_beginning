@@ -52,6 +52,7 @@ Contents
      </div>
    </details>
 
+.. raw:: html
   <details>
      <summary style="background-color:#B3D9FF;width:700px">Element Name(<var>a<sup>Name</sup></var>) - Brief one line description</summary>
       <table style="border: 1px solid grey; border-collapse:collapse;width: 700px">
