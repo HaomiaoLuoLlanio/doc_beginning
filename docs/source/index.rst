@@ -21,6 +21,9 @@ I recommend you try |Python|_.
 .. |Python| replace:: Python, *the* best language around
 .. _Python: https://www.python.org/
 
+.. toctree::
+   :caption: Table of Contents
+   :name: mastertoc
 Contents
 --------
 
