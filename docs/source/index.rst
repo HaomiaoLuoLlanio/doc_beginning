@@ -37,9 +37,16 @@ Contents
      Details:<br>
      Examples:<br>
    </details>
-   
+   <style>
+      p {
+        color: white;
+        background-color: blue;
+        padding: 5px;
+        border: 1px solid black;
+      }
+    </style>
     <details>
-     <summary><p style="color: blue">The <code>style</code> attribute can override it, though.</p>Element Name(<var>a<sup>Name</sup></var>) - Brief one line description</summary>
+     <summary>Element Name(<var>a<sup>Name</sup></var>) - Brief one line description</summary>
      <p>Element name: expression<br>
      Details:<br>
      Examples:<br>
