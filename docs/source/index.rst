@@ -38,34 +38,27 @@ Contents
      Examples:<br>
    </details>
 
-    <details style="background-color:blue;">
-     <summary>Element Name(<var>a<sup>Name</sup></var>) - Brief one line description</summary>
-     <p>Element name: expression<br>
-     Details:<br>
-     Examples:<br>
-     <table>
-      <tr>
-      <th>Name</th>
-      <th>Age</th>
-      <th>Country</th>
+  <details>
+     <summary style="background-color:#B3D9FF;width:400px">Element Name(<var>a<sup>Name</sup></var>) - Brief one line description</summary>
+      <table style="border: 1px solid grey; border-collapse:collapse;width: 400px">
+      <tr >
+      <td style="border-bottom: 1px solid grey; color:#4DA6FF;">Definition:   </td>
+      <td style="border-bottom: 1px solid grey; color:grey;">Element Name::&lt;Name&gt;</td>
       </tr>
       <tr>
-      <td>Alice</td>
-      <td>25</td>
-      <td>USA</td>
+      <td style="border-bottom: 1px solid grey; color:#4DA6FF;">Description   </td>
+      <td style="border-bottom: 1px solid grey; color:grey;">Expression:&lt;Name&gt;</td>    
       </tr>
       <tr>
-      <td>Bob</td>
-      <td>30</td>
-      <td>UK</td>
+      <td style="border-bottom: 1px solid grey; color:#4DA6FF;">Example:  </td>
+      <td style="border-bottom: 1px solid grey; color:grey;">RAS;ERK1</td>
       </tr>
       <tr>
-      <td>Charlie</td>
-      <td>35</td>
-      <td>Canada</td>
+      <td style="border-bottom: 1px solid grey; color:#4DA6FF;">Formal Variable:  </td>
+      <td style="border-bottom: 1px solid grey; color:grey;"><var>a<sup>Name</sup></var></td>
       </tr>
       </table>
-
+  </details>
    </details>
    
   
