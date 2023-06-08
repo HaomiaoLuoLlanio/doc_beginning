@@ -49,7 +49,8 @@ Contents
    "Data 2.1",               "Data 2.2",      "Data 2.3"
    "Data 3.1",               ,                "Data 1.3 (Data 1.2 left out)"
    "Data 4.1",               "Data 4.2 (Data 4.3 left out)"
-
+.. raw:: html
+   </details>
 
 .. raw:: html
   <details>
