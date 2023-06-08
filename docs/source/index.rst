@@ -54,6 +54,7 @@ Contents
    "Data 2.1",               "Data 2.2",      "Data 2.3"
    </div>
 
+.. raw:: html
    </details>
 
 .. raw:: html
