@@ -22,6 +22,11 @@ Contents
    api
 
 
+.. container:: custom
+
+   This paragraph might be rendered in a custom way.
+
+
 .. raw:: html
 
    <details>
