@@ -44,6 +44,8 @@ Contents
      Details:<br>
      Examples:<br>
    </details>
+   
+   
 .. raw:: html
    <div style="background-color: #0000FF; color: white;">
   This is a text box with a blue background.
