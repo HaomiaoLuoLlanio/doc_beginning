@@ -47,6 +47,7 @@ Contents
    
    
 .. raw:: html
-   <div style="background-color: #0000FF; color: white;">
-  This is a text box with a blue background.
-   </div>
+
+  <div style="background-color: blue; color: white;">
+    This is a text box with a blue background.
+  </div>
