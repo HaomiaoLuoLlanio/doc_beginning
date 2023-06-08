@@ -7,7 +7,7 @@ It pulls data from the `Open Food Facts database <https://world.openfoodfacts.or
 and offers a *simple* and *intuitive* API.
 
 Internal cross-references, like example_.
-.. _example: This is an example cross-reference target.
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -15,6 +15,8 @@ how to :ref:`installation` the project.
 .. note::
 
    This project is under active development.
+
+.. _example: This is an example cross-reference target.
 
 Contents
 --------
