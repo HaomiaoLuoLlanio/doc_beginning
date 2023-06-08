@@ -25,6 +25,10 @@ Contents
 .. container:: custom
 
    This paragraph might be rendered in a custom way.
+   
+<container classes="custom">
+    <paragraph>
+        This paragraph might be rendered in a custom way.
 
 
 .. raw:: html
