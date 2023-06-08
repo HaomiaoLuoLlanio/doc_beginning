@@ -42,15 +42,14 @@ Contents
 
    <details>
      <summary>Element Name(<var>a<sup>Name</sup></var>) - Brief one line description</summary>
-     <div>
+
 .. csv-table:: Example csv-table :header: “Header 1”, “Header 2”, “Header 3”
 
    "Data 1.1",               "Data 1.2",      "Data 1.3"
    "Data 2.1",               "Data 2.2",      "Data 2.3"
    "Data 3.1",               ,                "Data 1.3 (Data 1.2 left out)"
    "Data 4.1",               "Data 4.2 (Data 4.3 left out)"
-     </div>
-   </details>
+
 
 .. raw:: html
   <details>
