@@ -45,7 +45,4 @@ Contents
      Examples:<br>
    </details>
    
-   <details id="my-details" style="color: blue;">
-     <summary>Click to expand</summary>
-     <p>This is a detailed paragraph.</p>
-   </details>
+  
