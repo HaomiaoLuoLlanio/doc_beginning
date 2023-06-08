@@ -45,4 +45,6 @@ Contents
      Examples:<br>
    </details>
    
-   <input type="button" value="Click Me" />
+   <div style="background-color: blue; color: white;">
+  This is a text box with a blue background.
+   </div>
