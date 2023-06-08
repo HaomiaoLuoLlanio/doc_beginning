@@ -44,3 +44,7 @@ Contents
      Details:<br>
      Examples:<br>
    </details>
+   
+   <input class="favorite styled"
+       type="button"
+       value="Add to favorites">
