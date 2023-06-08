@@ -59,6 +59,27 @@ Contents
       </tr>
       </table>
   </details>
-   </details>
+
+<details style="font-family:Calibri, sans-serif;">
+     <summary style="background-color:#80BFFF;width:400px;color:white;">Element Name(<var>a<sup>Name</sup></var>) - Brief one line description</summary>
+      <table style="background-color:#E6F2FF; border-collapse:collapse;width: 400px">
+      <tr >
+      <td style="border-bottom: 1px solid grey; color:grey;">Definition   </td>
+      <td style="border-bottom: 1px solid grey; color:grey;">Element Name::&lt;Name&gt;</td>
+      </tr>
+      <tr>
+      <td style="border-bottom: 1px solid grey; color:grey;">Description   </td>
+      <td style="border-bottom: 1px solid grey; color:grey;">Expression:&lt;Name&gt;</td>    
+      </tr>
+      <tr>
+      <td style="border-bottom: 1px solid grey; color:grey;">Example  </td>
+      <td style="border-bottom: 1px solid grey; color:grey;">RAS;ERK1</td>
+      </tr>
+      <tr>
+      <td style="border-bottom: 1px solid grey; color:grey;">Formal Variable:  </td>
+      <td style="border-bottom: 1px solid grey; color:grey;"><var>a<sup>Name</sup></var></td>
+      </tr>
+      </table>
+  </details>
    
   
