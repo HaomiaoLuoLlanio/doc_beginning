@@ -21,11 +21,21 @@ Contents
    usage
    api
 
+.. role:: bluebox
+   :class: bluebox
+
 .. raw:: html
 
-  <div style="background-color: blue; color: white;">
-    This is a text box with a blue background.
-  </div>
+  <style>
+    .bluebox {
+      background-color: blue;
+      color: white;
+    }
+  </style>
+
+This is a normal paragraph.
+
+This is a :bluebox:`text box with a blue background`.
 
 .. raw:: html
 
