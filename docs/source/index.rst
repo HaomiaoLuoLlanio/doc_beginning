@@ -43,6 +43,29 @@ Contents
      <p>Element name: expression<br>
      Details:<br>
      Examples:<br>
+     <table>
+  <tr>
+    <th>Name</th>
+    <th>Age</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alice</td>
+    <td>25</td>
+    <td>USA</td>
+  </tr>
+  <tr>
+    <td>Bob</td>
+    <td>30</td>
+    <td>UK</td>
+  </tr>
+  <tr>
+    <td>Charlie</td>
+    <td>35</td>
+    <td>Canada</td>
+  </tr>
+</table>
+
    </details>
    
   
