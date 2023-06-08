@@ -6,7 +6,7 @@ that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
 
-Internal cross-references, like example_.
+
 
 
 Check out the :doc:`usage` section for further information, including
@@ -15,8 +15,11 @@ how to :ref:`installation` the project.
 .. note::
 
    This project is under active development.
+   
+I recommend you try |Python|_.
 
-.. _example: This is an example cross-reference target.
+.. |Python| replace:: Python, *the* best language around
+.. _Python: https://www.python.org/
 
 Contents
 --------
