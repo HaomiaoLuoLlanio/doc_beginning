@@ -38,7 +38,7 @@ Contents
      Examples:<br>
    </details>
 
-    <details>
+    <details style="background-color:blue;">
      <summary>Element Name(<var>a<sup>Name</sup></var>) - Brief one line description</summary>
      <p>Element name: expression<br>
      Details:<br>
