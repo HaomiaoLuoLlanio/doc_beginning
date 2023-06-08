@@ -39,8 +39,8 @@ Contents
    </details>
 
   <details>
-     <summary style="background-color:#B3D9FF;width:400px">Element Name(<var>a<sup>Name</sup></var>) - Brief one line description</summary>
-      <table style="border: 1px solid grey; border-collapse:collapse;width: 400px">
+     <summary style="background-color:#B3D9FF;width:800px">Element Name(<var>a<sup>Name</sup></var>) - Brief one line description</summary>
+      <table style="border: 1px solid grey; border-collapse:collapse;width: 800px">
       <tr >
       <td style="border-bottom: 1px solid grey; color:#4DA6FF;">Definition:   </td>
       <td style="border-bottom: 1px solid grey; color:grey;">Element Name::&lt;Name&gt;</td>
