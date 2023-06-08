@@ -21,21 +21,6 @@ Contents
    usage
    api
 
-.. role:: bluebox
-   :class: bluebox
-
-.. raw:: html
-
-  <style>
-    .bluebox {
-      background-color: blue;
-      color: white;
-    }
-  </style>
-
-This is a normal paragraph.
-
-This is a :bluebox:`text box with a blue background`.
 
 .. raw:: html
 
@@ -54,7 +39,7 @@ This is a :bluebox:`text box with a blue background`.
    </details>
    
     <details>
-     <summary>Element Name(<var>a<sup>Name</sup></var>) - Brief one line description</summary>
+     <summary><p style="color: blue">The <code>style</code> attribute can override it, though.</p>Element Name(<var>a<sup>Name</sup></var>) - Brief one line description</summary>
      <p>Element name: expression<br>
      Details:<br>
      Examples:<br>
