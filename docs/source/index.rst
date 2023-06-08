@@ -21,6 +21,11 @@ Contents
    usage
    api
 
+.. raw:: html
+
+  <div style="background-color: blue; color: white;">
+    This is a text box with a blue background.
+  </div>
 
 .. raw:: html
 
@@ -46,8 +51,3 @@ Contents
    </details>
    
    
-.. raw:: html
-
-  <div style="background-color: blue; color: white;">
-    This is a text box with a blue background.
-  </div>
