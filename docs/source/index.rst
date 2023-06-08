@@ -26,7 +26,7 @@ Contents
 
    <details>
      <summary>Element Name(<var>a<sup>Name</sup></var>) - Brief one line description</summary>
-     <p>Element name: <Name>expression<br>
+     <p>Element name: &Name;expression<br>
      Details:<br>
      Examples:<br>
    </details>
