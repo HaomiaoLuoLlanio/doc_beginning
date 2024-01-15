@@ -1,1 +1,16 @@
+.wy-table-responsive table td {
+    white-space: normal;
+}
 
+.sticky-first-column {
+    max-height: 400px; /* Adjust the height as needed */
+    overflow-y: auto;
+    overflow-x: auto;
+}
+
+.sticky-first-column table thead th {
+    position: sticky;
+    top: 0;
+    background-color: white;
+    z-index: 10;
+}
